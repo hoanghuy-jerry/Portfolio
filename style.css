@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 16px;
+    line-height: 1.6;
+}
+
+h1,
+h2 {
+    color: #333;
+}
+
+.section {
+    margin-bottom: 24px;
+}
+
+.two-col {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.two-col>div {
+    flex: 1 1 200px;
+}
+
+.project {
+    border: 1px solid #ddd;
+    padding: 12px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+}
+
+img#admin {
+    max-width: 163px;
+    max-height: 167px;
+}
+
+footer#footer {
+    text-align: center;
+}
