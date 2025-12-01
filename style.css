@@ -33,6 +33,8 @@ h2 {
 }
 
 img#admin {
+    border: 18px solid #a1a14d;
+    max-height: 167px;
     max-width: 163px;
     max-height: 167px;
 }
